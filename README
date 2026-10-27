@@ -1,0 +1,58 @@
+# ARGUS
+
+Adaptive Graph Intelligence &
+Anomaly Detection System
+
+ARGUS is a local-first AI/ML intelligence
+platform designed to discover behavioral
+anomalies, hidden relationships, communities,
+and temporal changes inside a continuously
+evolving synthetic environment.
+
+## Core Capabilities
+
+- Real-time simulation
+- Behavioral anomaly detection
+- Isolation Forest
+- Local Outlier Factor
+- Ensemble detection
+- K-Means clustering
+- DBSCAN
+- Graph intelligence
+- Community detection
+- Centrality analysis
+- Link prediction
+- Temporal change detection
+- Live WebSocket monitoring
+- Interactive graph visualization
+- ML evaluation
+- Scenario-based experimentation
+
+## Architecture
+
+Simulation
+→ Feature Engineering
+→ ML
+→ Graph Intelligence
+→ Analytics
+→ FastAPI
+→ React
+
+## Cost
+
+ARGUS is designed to operate without
+paid AI APIs or external inference keys.
+
+## Stack
+
+Python
+FastAPI
+Scikit-learn
+NetworkX
+Pandas
+NumPy
+SQLAlchemy
+SQLite
+React
+Vite
+Recharts
